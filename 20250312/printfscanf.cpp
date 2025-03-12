@@ -23,4 +23,7 @@ int main(void) {
 	printf("키 : %d \n", height);
 
 	return 0;
+
+	///입출력 테스트
 }
+
